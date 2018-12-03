@@ -3,19 +3,19 @@
     [
         {
             "name":"一号点",
-            "longitude":104.,
+            "longitude":108,
              "latitude":30.6799428
 
         },
         {
             "name":"二号点",
             "longitude":104.06792543,
-             "latitude":30.
+             "latitude":33
 
         },
         {
             "name":"三号点",
-            "longitude":105.0679234,
+            "longitude":100.0679234,
              "latitude":30.67994
 
         }
